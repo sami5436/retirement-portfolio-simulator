@@ -1,0 +1,1 @@
+import './globals.css';export const metadata={title:'Portfolio Atlas | Retirement Simulator',description:'Backtest stock and bond portfolios, withdrawals and retirement scenarios.'};export default function RootLayout({children}){return <html lang="en"><body>{children}</body></html>}
